@@ -1,0 +1,2 @@
+# training-mobx
+just study
