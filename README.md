@@ -1,2 +1,2 @@
 # training-mobx
-just study
+Simple list applicatin with filter to train mobx.
